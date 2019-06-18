@@ -1,3 +1,4 @@
+#if not understand drop a messege!
 k<-c(2,5,10,20,30,40,50)
 profdiff<-c();profsame<-c()
 for(i in 1:length(k)){

@@ -1,3 +1,4 @@
+#if not understand drop a messege!
 match_prob<-function(x) choose(2*N-x,N)*2^(-(2*N-x))
 N<-50
 round(sapply(1:50,match_prob),5)
